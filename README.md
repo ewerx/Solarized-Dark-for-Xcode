@@ -1,7 +1,7 @@
 Solarized Dark for Xcode
 ========================
 
-![Solarized Dark Screen Shot](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot")
+![Solarized Dark Screen Shot](https://github.com/ewerx/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot")
 
 ## Note
 
